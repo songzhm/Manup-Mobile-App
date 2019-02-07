@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Private Policy of Manup Research Project
 
-You can use the [editor on GitHub](https://github.com/songzhm/manup-private-policy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**MANUP** is a research Study conducted by Michigan State University and Claremont Graduate University. It has been funded by NIH/NINR under the R21 award.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Overview: African American Men suffering from diabetes type 2 will be recruited for this project. They will download and use the MANUP app. The app runs on both IOS and Android platform. They will receive a Bluetooth enabled glucometer which can automatically transfer blood glucose meter reading into the app and then to the cloud. The app also displays daily text messages that are tailored for the AA men to be effective for their self-management of diabetes. 
 
-### Markdown
+## Protecting Confidentiality & Privacy
+The project poses some possible risk to anonymity and confidentiality. To preserve anonymity and confidentiality, individuals will not be identified in any reports from the study or on forms used for data collection. Records will be locked in a secure place with access limited to authorized project personnel, and references to participants will be made using code numbers.  All personnel working on this project will be asked to sign a confidentiality pledge in which they agree that any violation of confidentiality is cause for dismissal from the project.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Research staffs are trained in research ethics, confidentiality protection, and HIPAA prior to and throughout the study period through the responsible conduct of research training program at the MSU College of Human Medicine. All research personnel must pass the MSU Responsible Conduct of Research certifications. At the time of study enrollment, participants will be assigned a study identification number to be used in all study materials and data for the duration of the study. Participants will be assured that all data they provide to the study is confidential, unless it is necessary to “alert” both the patient and their physician because of a laboratory value outside of the normal ranges that reflects a risk requiring immediate attention. All reports use aggregate data. Names or other identifiers are not reported. Records will be locked in a secure place with access limited to authorized project personnel, and references to participants are made using code numbers. All personnel working on this project are required to sign a confidentiality pledge in which they agree that any violation of confidentiality is cause for dismissal from the project. Should there be any participants who find the examination session or interview to be too uncomfortable, embarrassing, or stressful, they are protected by the informed consent. 
 
-```markdown
-Syntax highlighted code block
+## Monitoring Plan to Assess Data to Ensure Safety
+Plan: To ensure staff participation in data safety and monitoring activities, all members of the project team will be trained on the specifics of the data safety and monitoring plan (DSMP). Our DSMP details protocols for preventing, monitoring, auditing, and managing adverse events. To minimize risk and ensure participant safety, this study will be overseen by various medical professionals such as a public health physician with experience working in diabetes care and a diabetes nurse specialist/registered dietitian trained in diabetes education and risk management. This study’s research team training also represents a viable resource for protecting participants.
 
-# Header 1
-## Header 2
-### Header 3
+Committee: This study will develop and implement a diabetes self-management intervention for adult Black men in Flint, Michigan. The project is a behavioral intervention with potential clinical risks associated with the study’s goal to lower blood glucose levels in men diagnosed with diabetes. To that end, we are submitting this Data Safety and Monitoring Plan (DSMP). In order to implement the DSMP, we will form a multidisciplinary Study Monitoring Committee (SMC). The purpose of the DSMP and SMC is to minimize risk and ensure participant safety. The SMC will use the DSMP to monitor and report the potential occurrence of clinical adverse outcomes, such as hypoglycemia, that may occur during the course of this study. The SMC will monitor this study. The SMC will consist of Dr. Harold Neighbors (principal investigator), Dr. Gretchen Piatt (co-investigator), and, two external members not involved with the study. One of these external members will be a Carol Janney, PhD, an epidemiologist and biostatistician. The other external member is Laura Carravallah, MD, MPH, a public health physician with experience working in diabetes care. The SMC will meet three times per year to monitor the study and discuss any adverse events. Project progress reports will be sent to the NINR at the end of each budget period. The PI will provide reports to the National Institute of Nursing Research (NINR) each budget period. Specifically, the PI will report to NINR for review and approval: (1) any unanticipated problems or serious adverse events related to the study procedures; (2) Any IRB suggested revisions to the intervention that indicate a change in risk for participants; (3) a summary of any recommendations made by the SMC; (4) any responses being considered by the research team to suggestions made by the Michigan State University (MSU) IRB. 
 
-- Bulleted
-- List
+## Data Sharing
+BG data from each patient is transmitted to Google Firebase using TLS/SLS and are completely secured. Data transmission is HIPAA encrypted. We will use Google Analytics to find staitsics about app usage but at no point will any individual be identified.  
+Our research team views the new intervention, including the new library of text messages, which will be developed as a result of this research as a valuable resource for any Black men’s diabetes self-management health program that seeks to improve diabetes health. In that regard our plans are to present our results at professional meetings and submit them for publication. Once it becomes more generally known that we have developed a useful diabetes intervention for Black men, we would be happy to share them with anyone who would like to use this new approach in diabetes intervention research. We also plan to share our strategy for developing the library of text messages which may be of interest to those designing a mobile health program. We agree that the sharing of unique research resources developed as a result of NIH-funded research is an important way to advance our mutual research agenda. We are prepared to do whatever we can to make our findings readily available for research purposes to qualified individuals within the scientific community.
 
-1. Numbered
-2. List
+## Protecting Confidentiality:
+Research staff are trained in research ethics, confidentiality protection, and HIPAA prior to and throughout the study period through the responsible conduct of research training program at the MSU College of Human Medicine. All research personnel must pass the MSU Responsible Conduct of Research certifications. At the time of study enrollment, participants will be assigned a study identification number to be used in all study materials and data for the duration of the study. Participants will be assured that all data they provide to the study is confidential, unless it is necessary to “alert” both the patient and their physician because of a laboratory value outside of the normal ranges that reflects a risk requiring immediate attention. All reports use aggregate data. Names or other identifiers are not reported.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/songzhm/manup-private-policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Records will be locked in a secure place with access limited to authorized project personnel, and references to participants are made using code numbers. All personnel working on this project are required to sign a confidentiality pledge in which they agree that any violation of confidentiality is cause for dismissal from the project. Should there be any participants who find the examination session or interview to be too uncomfortable, embarrassing, or stressful, they are protected by the informed consent. Participants asked to respect the privacy of fellow group members.
