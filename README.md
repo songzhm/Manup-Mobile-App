@@ -1,5 +1,3 @@
-# Private Policy of Manup Research Project
-
 **MANUP** is a research Study conducted by Michigan State University and Claremont Graduate University. It has been funded by NIH/NINR under the R21 award.
 
 Overview: African American Men suffering from diabetes type 2 will be recruited for this project. They will download and use the MANUP app. The app runs on both IOS and Android platform. They will receive a Bluetooth enabled glucometer which can automatically transfer blood glucose meter reading into the app and then to the cloud. The app also displays daily text messages that are tailored for the AA men to be effective for their self-management of diabetes. 
